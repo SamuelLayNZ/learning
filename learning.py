@@ -1,6 +1,2 @@
-
-print("test")
-brokencode = 12345
-
-#testing note
-
+msg = "Hello World"
+print(msg)
