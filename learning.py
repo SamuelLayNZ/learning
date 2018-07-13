@@ -1,5 +1,5 @@
 
 print("test")
-brokencode = broken([33344)
+brokencode = 12345
 
 
